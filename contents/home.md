@@ -17,7 +17,7 @@ B.E., School of Management, Xi'an University of Architecture and Technology, Xi'
 
 #### Education  
 Double Ph.D. degrees in Computer Science (CS) and Management Science & Engineering (MSE)
- - CS, LERIA, University of Angers, France, 2022–2024  (Funded by the China Scholarship Council, CSC)
+ - CS, LERIA, University of Angers, France, 2022–2024  (Funded by the Chinese Scholarship Council, CSC)
  - MSE, School of Management, Northwestern Polytechnical University, Xi’an, China, 2021–2025  
 
 M.E. in Industrial Engineering, School of Management, Northwestern Polytechnical University, Xi’an, China, 2018–2021  
