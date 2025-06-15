@@ -1,0 +1,6 @@
+- Outstanding Graduate Award of Northwestern Polytechnical University, 2025.
+- Second Prize, Outstanding Achievement Award for Humanities and Social Sciences Research in Higher Education Institutions of Shaanxi Province, 2025. (Second Author)
+- Third Prize, 16th Outstanding Achievement Award in Philosophy and Social Sciences, Shaanxi Province, 2024. (Third Author)
+- National Scholarship of Graduate Student, 2024.
+- Outstanding Graduate Award of Regular Institutions of Higher Education, Shaanxi Province, 2021.
+- Outstanding Graduate Award of Northwestern Polytechnical University, 2021.
