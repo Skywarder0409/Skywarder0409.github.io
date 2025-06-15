@@ -9,18 +9,17 @@ He is currently a postdoctoral fellow in the Computational Optimization Group at
 #### Email
 haichao_liu@sfu.ca
 
-<!-- #### Education
-Ph.D., LERIA, University of Angers, France, 2022-2024.\
-Ph.D., School of Management, Northwestern Polytechnical University, Xi'an, China, 2021-2025.\
-M.E., School of Management, Northwestern Polytechnical University, Xi'an, China, 2018-2021.\
-B.E., School of Management, Xi'an University of Architecture and Technology, Xi'an, China, 2014-2018. -->
 
-#### Education  
+#### Occupational History
+
+Postdoctoral fellow, Department of Mathematics, Simon Fraser University, Surrey, Canada, 2025-now (supervisor: Prof. Abraham P. Punnen)
+
+#### Education Experience
 Double Ph.D. degrees in Computer Science (CS) and Management Science & Engineering (MSE)
- - CS, LERIA, University of Angers, France, 2022–2024  (Funded by the Chinese Scholarship Council, CSC)
- - MSE, School of Management, Northwestern Polytechnical University, Xi’an, China, 2021–2025  
+ - CS, LERIA, University of Angers, France, 2022–2024  (Funded by the Chinese Scholarship Council, CSC) (supervisor: Prof. Jin-Kao Hao)
+ - MSE, School of Management, Northwestern Polytechnical University, Xi’an, China, 2021–2025  (supervisor: Prof. Yang Wang)
 
-M.E. in Industrial Engineering, School of Management, Northwestern Polytechnical University, Xi’an, China, 2018–2021  
+M.E. in Industrial Engineering, School of Management, Northwestern Polytechnical University, Xi’an, China, 2018–2021  (supervisor: Prof. Yang Wang)
 B.E. in Engineering Management, Xi’an University of Architecture and Technology, Xi’an, China, 2014–2018
 
 
