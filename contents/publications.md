@@ -1,15 +1,15 @@
 
 ### Representative Works:
 
-- <strong>Haichao Liu</strong>, Yang Wang*, Hongpu Wang, Jianguang Feng, Ada Che*, Jin-Kao Hao, Abraham P.Punnen. Surgery scheduling in flexible operating rooms under uncertainty: Novel coping mechanisms and solution approach. Production and Operations Management. <strong>In revision (after first-round review)</strong>.
+- <strong>Haichao Liu</strong>, Yang Wang*, Hongpu Wang, Jianguang Feng, Ada Che*, Jin-Kao Hao, Abraham P.Punnen. Surgery scheduling in flexible operating rooms under uncertainty: Novel coping mechanisms and solution approach. <strong>Production and Operations Management</strong>. <strong>In revision (after first-round review)</strong>.
 
-- <strong>Haichao Liu</strong>, Jin-Kao Hao, Yang Wang*, Abraham P. Punnen. Stochastic patient admission scheduling with an exponential number of scenarios. European Journal of Operational Research. <strong>Under review (second round)</strong>
+- <strong>Haichao Liu</strong>, Jin-Kao Hao, Yang Wang*, Abraham P. Punnen. Stochastic patient admission scheduling with an exponential number of scenarios. <strong>European Journal of Operational Research</strong>. <strong>Under review (second round)</strong>
   
-- <strong>Haichao Liu</strong>, Yang Wang, Jin-Kao Hao*. Solving the patient admission scheduling problem using constraint aggregation. European Journal of Operational Research, 2024, 316(1): 85-99. [[paper]](https://doi.org/10.1016/j.ejor.2024.02.009)
+- <strong>Haichao Liu</strong>, Yang Wang, Jin-Kao Hao*. Solving the patient admission scheduling problem using constraint aggregation. <strong>European Journal of Operational Research</strong>, 2024, 316(1): 85-99. [[paper]](https://doi.org/10.1016/j.ejor.2024.02.009)
 
-- <strong>Haichao Liu†</strong>, Yang Wang†, Sijia Zhou, Yuning Chen*, Jin-Kao Hao. Integrated emergency medical facility location and patient dispatching under uncertainty. IEEE Transactions on Intelligent Transportation Systems. <strong>Accepted (minor revision completed)</strong>.
+- <strong>Haichao Liu†</strong>, Yang Wang†, Sijia Zhou, Yuning Chen*, Jin-Kao Hao. Integrated emergency medical facility location and patient dispatching under uncertainty. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. <strong>Accepted (minor revision completed)</strong>.
 
-- Yang Wang*, <strong>Haichao Liu</strong>, Bo Peng, Haibo Wang, Abraham P. Punnen. A three-phase matheuristic algorithm for the multi-day task assignment problem. Computers & Operations Research, 2023, 159: 106313. [[paper]](https://doi.org/10.1016/j.cor.2023.106313)
+- Yang Wang*, <strong>Haichao Liu</strong>, Bo Peng, Haibo Wang, Abraham P. Punnen. A three-phase matheuristic algorithm for the multi-day task assignment problem. <strong>Computers & Operations Research</strong>, 2023, 159: 106313. [[paper]](https://doi.org/10.1016/j.cor.2023.106313)
 
 ### Additional Works:
 
