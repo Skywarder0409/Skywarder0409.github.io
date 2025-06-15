@@ -1,9 +1,9 @@
 
 ### Representative Works:
 
-- <strong>Haichao Liu</strong>, Yang Wang*, Hongpu Wang, Jianguang Feng, Ada Che*, Jin-Kao Hao, Abraham P.Punnen. Surgery scheduling in flexible operating rooms under uncertainty: Novel coping mechanisms and solution approach. <strong>Production and Operations Management</strong>. <strong>In revision (after first-round review)</strong>.
+<!-- - <strong>Haichao Liu</strong>, Yang Wang*, Hongpu Wang, Jianguang Feng, Ada Che*, Jin-Kao Hao, Abraham P.Punnen. Surgery scheduling in flexible operating rooms under uncertainty: Novel coping mechanisms and solution approach. <strong>Production and Operations Management</strong>. <strong>In revision (after first-round review)</strong>. -->
 
-- <strong>Haichao Liu</strong>, Jin-Kao Hao, Yang Wang*, Abraham P. Punnen. Stochastic patient admission scheduling with an exponential number of scenarios. <strong>European Journal of Operational Research</strong>. <strong>Under review (second round)</strong>
+<!-- - <strong>Haichao Liu</strong>, Jin-Kao Hao, Yang Wang*, Abraham P. Punnen. Stochastic patient admission scheduling with an exponential number of scenarios. <strong>European Journal of Operational Research</strong>. <strong>Under review (second round)</strong>-->
   
 - <strong>Haichao Liu</strong>, Yang Wang, Jin-Kao Hao*. Solving the patient admission scheduling problem using constraint aggregation. <strong>European Journal of Operational Research</strong>, 2024, 316(1): 85-99. [[paper]](https://doi.org/10.1016/j.ejor.2024.02.009)
 
