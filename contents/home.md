@@ -20,6 +20,7 @@ Double Ph.D. degrees in Computer Science (CS) and Management Science & Engineeri
  - MSE, School of Management, Northwestern Polytechnical University, Xi’an, China, 2021–2025  (supervisor: Prof. Yang Wang)
 
 M.E. in Industrial Engineering, School of Management, Northwestern Polytechnical University, Xi’an, China, 2018–2021  (supervisor: Prof. Yang Wang)
+
 B.E. in Engineering Management, Xi’an University of Architecture and Technology, Xi’an, China, 2014–2018
 
 
